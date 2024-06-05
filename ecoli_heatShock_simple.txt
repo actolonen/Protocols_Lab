@@ -1,0 +1,23 @@
+# Andrew TOLONEN	
+
+Heat Shock E.coli transformation. This simple protocol is typically not effiencit enough for plasmid construction, but works well for previously constructed plasmids and can be easily adapted to transform different E.coli strains.
+
+Materials: liquid LB, selective plates, 0.1 M CaCl2, plasmid DNA, 42 degree C
+  water bath, 37 degree C incubator
+
+- grow 5ml overnight culture of recipient cell
+- dilute 100x into fresh LB (50 microL cells into 5 ml medium)
+- grow 3h to mid log phase
+- collect cells by centrifugation: 8k, 2 min, RT
+- GENTLY resuspend in 200 microL ice-cold 0.1M CaCl2
+- 8k, 2 min, RT
+- GENTLY resuspend in 200 microL ice-cold 0.1 M CaCl2
+- split sample into 2 tubes: +DNA, -DNA control
+- add 10 ng plasmid DNA to +DNA eppie
+- ice 30 min
+- heat shock: 42 degrees C, 1 min 
+- ice 2 min
+- add 1 ml LB 
+- incubate: 37 degrees C, 1h 
+- plate 100 microL culture on selective plates
+- store remainder of cells at 4 degrees
